@@ -1,0 +1,8 @@
+﻿[
+
+
+    {
+        "inputs": [ "Assets/styles/site-td.less" ],
+        "output": "css/td.css"
+    }
+]
